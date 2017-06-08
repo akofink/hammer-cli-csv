@@ -176,6 +176,9 @@ msgstr ""
 msgid "Updating compute resource '%{name}'..."
 msgstr ""
 
+msgid "When processing --itemized-subscriptions, clear existing subscriptions first"
+msgstr ""
+
 msgid "Comma separated list of column names to export"
 msgstr ""
 
@@ -268,6 +271,9 @@ msgid ""
 ")"
 msgstr ""
 
+msgid "--clear-subscriptions option only relevant during import"
+msgstr ""
+
 msgid "--columns option only relevant with --export"
 msgstr ""
 
@@ -284,6 +290,9 @@ msgid "Creating content host '%{name}'..."
 msgstr ""
 
 msgid "Updating content host '%{name}'..."
+msgstr ""
+
+msgid "clearing existing subscriptions..."
 msgstr ""
 
 msgid " attaching '%{name}'..."
